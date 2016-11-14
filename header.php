@@ -23,7 +23,7 @@
         <span class="icon-bar"></span>
       </button>
         <a class="navbar-brand" href="#"><i class="fa fa-users" aria-hidden="true"></i>
-          BWD-Human Resource Information System </a>
+          HRIS v.1.0</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
