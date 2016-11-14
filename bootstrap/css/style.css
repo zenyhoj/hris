@@ -1,0 +1,29 @@
+/* 
+    Created on : Aug 17, 2016, 8:32:50 AM
+    Author     : joebals
+*/
+
+/*navbar*/
+
+.navbar-default {
+    
+    background-color: #31B0D5;
+    border: transparent;
+    
+}
+
+.navbar-default .navbar-header .navbar-brand{
+    color: #faf2cc;
+    
+}
+
+.navbar-nav{
+     font-family: Gill, 'Helvetica', sans-serif;
+}
+.navbar-default .navbar-nav li a {
+    color: #faf2cc;
+}
+
+
+
+
